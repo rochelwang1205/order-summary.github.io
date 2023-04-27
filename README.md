@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](order-summary/screenshot.png)
+![](/screenshot.png)
 
 ### Links
 
@@ -43,7 +43,12 @@ Users should be able to:
 ### What I learned
 
 -To set content in the middle of screen,
--to use box-shadow.
+-to use box-shadow,
+-to make a button with link!
+
+```html
+<form action="#"><input type="button" value="Proceed to Payment" class="check"/></form>
+```
 
 ```css
 .background{
@@ -61,6 +66,7 @@ button.check{
 
 - [垂直對齊 (Vertical alignment)](https://bootstrap5.hexschool.com/docs/5.0/utilities/vertical-align/) - This helped me understand the concept of vertical align.
 - [box shadow](https://developer.mozilla.org/zh-TW/docs/Web/CSS/box-shadow) - helped me use box-shadow.
+- [HTML button 將按鈕做成連結](https://mnya.tw/cc/word/1713.html)-make a button with link!
 - [Google Fonts](https://fonts.google.com/specimen/Red+Hat+Display)- great font!
 
 
