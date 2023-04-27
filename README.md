@@ -53,7 +53,9 @@ Users should be able to:
 ```css
 .background{
     background-color:hsl(225, 100%, 94%);
-    height:648px;
+    width:100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
     display:  flex;
     align-items: center;
     justify-content:  center;
