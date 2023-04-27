@@ -44,7 +44,9 @@ table {
 /*body*/
 .background{
     background-color:hsl(225, 100%, 94%);
-    height:800px;
+    width:100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
     display:  flex;
     align-items: center;
     justify-content:  center;
@@ -53,7 +55,7 @@ table {
     position: absolute;
 }
 .pattern img{
-    width:1280px;
+    width:100%;
 }
 .content{
     width:328px;
