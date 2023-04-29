@@ -45,13 +45,13 @@ table {
 body {
     background: url(./images/pattern-background-desktop.svg), #E1E9Ff;
     background-repeat: no-repeat, no-repeat;
-}
-.background{
-    padding-top: 50px;
-    padding-bottom: 50px;
     display:  flex;
     align-items: center;
     justify-content:  center;
+}
+.background{
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 .pattern{
     position: absolute;
